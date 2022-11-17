@@ -6,4 +6,8 @@
 ###### The End
 ![image of github](https://user-images.githubusercontent.com/117101158/202517011-57fde6e6-b668-45a4-953a-774726539172.png)
 
+```
+$ git init
+Initialized empty Git repository in https://github.com/skills/communicate-using-markdown.git
+```
 
