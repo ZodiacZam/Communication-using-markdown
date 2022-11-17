@@ -11,3 +11,6 @@ $ git init
 Initialized empty Git repository in https://github.com/skills/communicate-using-markdown.git
 ```
 
+- [x] Intro to Discord
+- [x] Intro to mulearn
+- [ ] Introduce myself to the world
